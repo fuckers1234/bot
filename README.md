@@ -1,2 +1,0 @@
-# bot
-working for bot
